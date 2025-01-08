@@ -23,6 +23,14 @@ O projeto foi desenvolvido utilizando Vue.js e Quasar Framework.
 - _Quasar Framework_: Framework para desenvolvimento de aplicações SPA, PWA, Mobile e Desktop utilizando Vue.js.
 - _Node.js_: Gerenciamento de pacotes e execução local.
 
+## Modelo MER
+
+O diagrama a seguir apresenta um modelo entidade-relacionamento para a gestão de usuários e tarefas.
+
+Relacionamento: USUARIO e TAREFA possuem um relacionamento de 1:N, onde um usuário pode ter várias tarefas associadas, mas cada tarefa pertence a apenas um usuário.
+
+![MER Diagrama de caso de uso](https://github.com/user-attachments/assets/f260e5e8-8720-4505-a286-e08836a30e96)
+
 ## Instrução de execução do Projeto Localmente
 
 ### Pré-requisitos
@@ -71,4 +79,3 @@ Este projeto foi desenvolvido para fins de demonstração de habilidades e conhe
 
 ![photoProject 1](https://github.com/user-attachments/assets/838a7595-d7c2-4ebe-9f34-10daee045a5c)
 ![photoProject 2](https://github.com/user-attachments/assets/f012c777-0091-4296-8e53-260aed7ea7de)
-
