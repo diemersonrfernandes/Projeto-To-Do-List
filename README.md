@@ -69,12 +69,6 @@ Este projeto foi desenvolvido para fins de demonstração de habilidades e conhe
 
 ## Demonstração
 
-<p align="center">
-    <img src="../todo-list/src/assets/photoProject 1.png" 
-    alt="" width="400px">
-</p>
+![photoProject 1](https://github.com/user-attachments/assets/838a7595-d7c2-4ebe-9f34-10daee045a5c)
+![photoProject 2](https://github.com/user-attachments/assets/f012c777-0091-4296-8e53-260aed7ea7de)
 
-<p align="center">
-    <img src="../todo-list/src/assets/photoProject 2.png" 
-    alt="" width="400px">
-</p>
